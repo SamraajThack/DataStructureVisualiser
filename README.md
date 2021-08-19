@@ -21,3 +21,7 @@ Android app to visualize data structures
   - Delete Alert Dialog
 - Adapt data structures for visualization
 - Implement visualization algorithm
+
+
+
+![some gif](https://github.com/SamraajThack/DataStructureVisualiser/blob/main/Presentation/untitled.gif)

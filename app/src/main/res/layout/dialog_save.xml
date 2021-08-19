@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:padding="16dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:orientation="vertical">
+    <EditText
+        android:id="@+id/saveDialog_fileName"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_margin="10dp"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:hint="File Name" />
+    <Button
+        android:id="@+id/saveDialog_saveBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:textAllCaps="false"
+        android:background="@drawable/homepage_button"
+        android:textColor="@color/textHomepageButtons"
+        android:textSize="20sp"
+        android:layout_margin="10dp"
+        android:textStyle="bold" />
+    <Button
+        android:id="@+id/saveDialog_cancelBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cancel"
+        android:textAllCaps="false"
+        android:background="@drawable/homepage_button"
+        android:textColor="@color/textHomepageButtons"
+        android:textSize="20sp"
+        android:layout_margin="10dp"
+        android:textStyle="bold" />
+    </LinearLayout>
+
+</RelativeLayout>

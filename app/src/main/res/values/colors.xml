@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c5050c</color>
+    <color name="colorPrimaryDark">#282728</color>
+    <color name="colorAccent">#0479a8</color>
+
+
+    <color name="buttonColor">#0479a8</color>
+    <color name="darkRed">#9b0000</color>
+    <color name="red">#c5050c</color>
+    <color name="backgroundWhite">#f7f7f7</color>
+    <color name="grayBlue">#dadfe1</color>
+    <color name="grayDarker">#646569</color>
+    <color name="grayDarkest">#282728</color>
+    <color name="text">#494949</color>
+    <color name="textHomepageButtons">#dadfe1</color>
+    <color name="backgroundRed">#9b0000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="button_blue">#3777C3</color>
+
+</resources>

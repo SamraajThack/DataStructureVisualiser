@@ -26,4 +26,4 @@ Android app to visualize data structures
 
 
 
-<img src="https://github.com/SamraajThack/DataStructureVisualiser/blob/main/Presentation/untitled.gif" width="250" height="250"/>
+<img src="https://github.com/SamraajThack/DataStructureVisualiser/blob/main/Presentation/untitled.gif" width="250" height="500"/>

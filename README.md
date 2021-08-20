@@ -8,13 +8,14 @@ An Android app to visualize data structures
 
 
 ## You can load a default BSTs 
-<img src="https://github.com/SamraajThack/DataStructureVisualiser/blob/main/Presentation/Screenshot_1629399019.png" width="250" height="500"/>
-
-## Or insert your own nodes with value
 <span>
-<img src="https://github.com/SamraajThack/DataStructureVisualiser/blob/main/Presentation/untitled.gif" width="250" height="500"/>
+<img src="https://github.com/SamraajThack/DataStructureVisualiser/blob/main/Presentation/Screenshot_1629399019.png" width="250" height="500"/>
 <img src="https://github.com/SamraajThack/DataStructureVisualiser/blob/main/Presentation/Screenshot_1629399046.png" width="250" height="500"/>
 </span>
+
+## Or insert your own nodes with value
+
+<img src="https://github.com/SamraajThack/DataStructureVisualiser/blob/main/Presentation/untitled.gif" width="250" height="500"/>
 
 
 

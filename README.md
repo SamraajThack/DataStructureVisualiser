@@ -30,6 +30,14 @@ An Android app to visualize data structures
 
 
 
+# How to run the app
+- Download Android Studio
+- Open this project with Android Studio
+- Click on the run button on the top right
+- Emulator will open up with the main menu on screen
+
+
+
 
 
 
